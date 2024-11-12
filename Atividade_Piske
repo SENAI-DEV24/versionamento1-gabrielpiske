@@ -1,0 +1,29 @@
+O que é versionamento de software e qual é a sua importância no desenvolvimento de projetos?
+- É o processo de controlar e gerenciar diferentes versões de um software ao longo do tempo. É importante para registrar mudanças, reverter erros, colaborar e manter um histórico do desenvolvimento.
+
+Quais são as principais vantagens de utilizar sistemas de controle de versão, como o Git, em projetos de desenvolvimento de software?
+- Facilita o trabalho em equipe, permite reverter alterações, mantém o histórico de mudanças e permite o desenvolvimento simultâneo em diferentes partes do projeto.
+
+Quais são os principais sistemas de controle de versão disponíveis atualmente?
+- Git, SVN, Mercurial, e CVS.
+
+Como funciona o processo de criação e gerenciamento de um repositório em um sistema de controle de versão?
+- Consiste em iniciar um repositório local, adicionar arquivos, fazer commits das mudanças e, eventualmente, sincronizar com um repositório remoto.
+
+O que são commits e como eles são úteis para controlar as mudanças em um projeto?
+- São checkpoints que registram mudanças no código. Facilitam o rastreamento de alterações e o retorno a versões anteriores.
+
+Como os branches são utilizados no versionamento de software? Quais são os benefícios de trabalhar com branches em projetos de desenvolvimento?
+- São ramificações independentes para desenvolver novas funcionalidades ou corrigir bugs. Facilitam o trabalho paralelo sem afetar o código principal.
+
+O que é uma mesclagem (merge) no contexto do versionamento de código? Como ela é realizada?
+- Combina mudanças de diferentes branches em um só. 
+
+Quais são os principais desafios que podem surgir ao trabalhar com vários desenvolvedores em um mesmo projeto e como o versionamento de software pode ajudar a superá-los?
+- Conflitos de código, retrabalho e falta de controle de versão. O versionamento permite integração fácil e controle sobre quem alterou o quê.
+
+Quais são as melhores práticas para escrever mensagens de commit significativas e úteis?
+- Ser claro, descrever a mudança de forma objetiva e usar tempo verbal no imperativo, como "adiciona validação de login".
+
+Como resolver conflitos de mesclagem (merge) que ocorrem quando dois ou mais desenvolvedores modificam o mesmo trecho de código?
+- Analisar as mudanças conflitantes e decidir quais manter, usando ferramentas de merge e revisando o código manualmente.
